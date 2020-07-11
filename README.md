@@ -12,5 +12,7 @@ yarn global add mojon-c
 列如：
 
 创建vue项目 mojon-c init vue projectName
+
 创建react项目 mojon-c init react projectName
+
 创建angular项目 mojon-c init angular projectName
