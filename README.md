@@ -4,6 +4,7 @@
 
 # 安装
 npm install -g mojon-c
+
 yarn global add mojon-c
 
 
