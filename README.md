@@ -1,5 +1,5 @@
 # mojon-c
-这是个导入模板型cli；包含vue、react、angular的开发模板。
+这是个导入模板型cli；包含vue、react、angular、webpack的开发模板。
 
 
 # 安装
@@ -14,3 +14,5 @@ yarn global add mojon-c
 创建react项目 mojon-c init react projectName
 
 创建angular项目 mojon-c init angular projectName
+
+创建webpack项目 mojon-c init webpack projectName
