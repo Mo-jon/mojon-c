@@ -8,6 +8,12 @@ npm install -g mojon-c
 yarn global add mojon-c
 
 
+# 卸载
+npm uninstall -g mojon-c
+
+yarn global remove mojon-c
+
+
 # 列如：
 创建vue项目 mojon-c init vue projectName
 
