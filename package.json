@@ -1,7 +1,7 @@
 {
   "name": "mojon-c",
   "version": "1.0.0",
-  "description": "This is a cli of vue from mojon",
+  "description": "This is a cli of templates from mojon",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

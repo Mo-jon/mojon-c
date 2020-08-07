@@ -29,6 +29,11 @@ const templates = {
         user: 'Mo-jon',
         repo: 'angular',
         ref: 'master',
+    },
+    webpack: {
+        user: 'Mo-jon',
+        repo: 'webpack',
+        ref: 'master',
     }
 };
 // cli 名称
