@@ -41,7 +41,7 @@ const cliName = 'mojon-c';
 
 
 program
-    .version('1.0.0', '-v, --version', '查看版本号')
+    .version('1.1.0', '-v, --version', '查看版本号')
     .helpOption('-h, --help', '查看帮助信息');
 
 program
